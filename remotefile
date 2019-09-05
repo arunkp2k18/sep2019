@@ -1,6 +1,4 @@
 Remote file 1
-<<<<<<< HEAD
 line 2 added from locally
-=======
 Added line2 on remote
->>>>>>> origin/master
+new line
