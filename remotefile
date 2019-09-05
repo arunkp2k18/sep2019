@@ -1,4 +1,7 @@
 Remote file 1
 line 2 added from locally
 Added line2 on remote
+<<<<<<< HEAD
 new line
+=======
+>>>>>>> ab575de9a372a38a41220a7aa05c44d075115ac7
